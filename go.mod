@@ -1,3 +1,3 @@
-module github.com/mzyy94/nscon
+module github.com/gabstv/nscon
 
-go 1.14
+go 1.18
